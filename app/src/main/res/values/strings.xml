@@ -4,4 +4,28 @@
     <string name="action_gridview">GridView</string>
     <string name="listview_empty">There\'s no item in the listview.</string>
     <string name="gridview_empty">There\'s no item in the gridview.</string>
+
+    <string-array name="MovieImage">
+        <item>@drawable/captainamerica</item>
+        <item>@drawable/dawnofjustice</item>
+        <item>@drawable/deadpool</item>
+        <item>@drawable/doctorstrange</item>
+        <item>@drawable/findingdory</item>
+        <item>@drawable/ghostbusters</item>
+        <item>@drawable/godsofegypt</item>
+        <item>@drawable/independenceday</item>
+        <item>@drawable/kungfupanda3</item>
+        <item>@drawable/suicidesquad</item>
+        <item>@drawable/warcraft</item>
+        <!--<item>@drawable/x-men</item>-->
+        <item>@drawable/zootopia</item>
+
+    </string-array>
+
+
+
+
+
+
+
 </resources>
